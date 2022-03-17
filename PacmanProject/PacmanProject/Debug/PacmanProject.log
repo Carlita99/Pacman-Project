@@ -1,0 +1,3 @@
+﻿  PacmanProject.cpp
+C:\Users\Carlita\Desktop\PacmanProject\PacmanProject\PacmanProject.cpp(85,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PacmanProject.vcxproj -> C:\Users\Carlita\Desktop\PacmanProject\Debug\PacmanProject.exe
